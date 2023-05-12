@@ -28,7 +28,7 @@ let name = "Mary"; function greetPeople(){ let name = "Clause"; console.log(`Hel
 
 4. Write a JavaScript program that computes the average marks of the following students. Then, this average is used to determine the corresponding grade.
 
-#Student Name | #Marks| 
+Student Name | Marks| 
 --- | --- | 
 David | 80 |
 Vinoth | 77 |
