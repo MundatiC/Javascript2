@@ -1,5 +1,5 @@
 # Javascript2
-Execution of some tasks assigned to me in the Jitu training
+Execution of some tasks assigned to me in the Jitu training. Focuses mainly on scope, error handling, and es6 features.
 
 # Tasks
 
