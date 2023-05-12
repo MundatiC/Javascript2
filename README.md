@@ -38,7 +38,7 @@ Thomas | 68 |
 
 The grades are computed as follows :
 
-#Range | #Grade| 
+Range | Grade| 
 --- | --- | 
 <60 | F |
 <70 | D |
